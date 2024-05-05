@@ -1,1 +1,0 @@
-RPC = "https://mainnet.helius-rpc.com/?api-key=d8c32c7c-197a-4f74-8ceb-0bdaa352f6bc"
